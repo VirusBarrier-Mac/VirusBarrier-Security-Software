@@ -5,7 +5,7 @@
 </div>
 
 <div align="center">
-<a href="https://suzumilu.github.io/.github/virusbarrier">
+<a href="https://christalse0404.github.io/.github/virusbarrier">
 <img src="https://img.shields.io/badge/GET_VirusBarrier-darkgreen?style=for-the-badge&logo=apple" alt="GET VirusBarrier">
 </a>
 </div>
